@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Data Structures and Algorithms (DSA)*  
 - 👯 I’m looking to collaborate on *Web Development*  
-- 💬 Ask me about *Tech, **Java Development, and **Innovative Solutions*  
+- 💬 Ask me about *Tech*, **Java Development**, and **Innovative Solutions** 
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswini-s-m-97292629a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
   [![Email](https://img.shields.io/badge/Email-smaswini006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaswini006@gmail.com)
