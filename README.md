@@ -3,7 +3,7 @@
 A passionate **Java Developer** and **Web development Enthusiast**  
 👩‍💻 Currently learning **React + Vite**, mastering **DSA**, and building fun, real-world projects!
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 
 - 🔭 I’m currently building a **Full Stack E-commerce Website**  
 - 🌱 Learning and exploring **DSA**, **Prompt Engineering**, and **UI/UX Design**  
