@@ -18,7 +18,7 @@ A passionate **Java Developer** and **Web development Enthusiast**
 ### 🌐 Check out my work:
 - Portfolio: Coming Soon...
 - GitHub: [Aswini1008](https://github.com/Aswini1008)
-- LinkedIn: [username](https://www.linkedin.com/in/Aswini)
+- LinkedIn: [Aswini ](https://www.linkedin.com/in/Aswini)
 - Email: smaswini006@gmail.com
 
 ---
