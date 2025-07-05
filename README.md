@@ -1,54 +1,104 @@
-# 👋 Hi there! I'm Aswini  
-Java Developer | React.js Enthusiast | IEEE Volunteer | Pre-final Year ECE Student @ Panimalar
+## 👋 Hi there! I'm Aswini  
+
+🚀 Aspiring Software Engineer | Java Backend Developer | React.js Enthusiast  
+📚 Pre-final Year ECE Student @ Panimalar Engineering College  
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🔭 Here's What I'm Working On  
+- 🎵 [ISAI – A Musical Web App](https://github.com/Aswini1008/isai-music-app)  
+  A full-stack music player with admin panel, role-based access, and Firebase integration.  
+  [🌐 Live Demo](https://isai-music.netlify.app/)
 
-#### 💻 Languages  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-#### ⚙️ Libraries & Frameworks  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-#### 🔧 Tools & Platforms  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
-![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- 🧠 [AI-Based Ethical Keylogger](https://github.com/Aswini1008/ethical-keylogger)  
+  Python GUI tool for educational and ethical monitoring use.
 
 ---
 
-### 📊 GitHub Stats
+### 👯 I’m Looking to Collaborate On  
+- ☀️ Smart Solar Tracker with Auto-Cleaning (IoT + Simulink)  
+  A rural innovation project for sustainable power.
+
+---
+
+### 🤝 I’m Looking for Help With  
+- Enhancing frontend animations and backend optimization for ISAI  
+- AI logging email automation in Python GUI project
+
+---
+
+### 🌱 I’m Currently Learning  
+- Java Backend & DSA  
+- React.js, Firebase, Tailwind CSS  
+- Cloud Tools (AWS, Netlify, Firebase)  
+- GitHub Collaboration & Open Source  
+
+---
+
+### 💬 Ask Me About  
+- Java, React.js, Tailwind CSS, Firebase  
+- Hosting on Netlify  
+- Python automation
+
+---
+
+### 📫 How to Reach Me  
+📧 smaswini006@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/aswini-sm-97292629a)  
+🌐 [Portfolio](https://aswini-sm-portfolio.netlify.app/)
+
+---
+
+### 👩‍💻 All My Projects Are Available At  
+[GitHub](https://github.com/Aswini1008) | [Portfolio](https://aswini-sm-portfolio.netlify.app/)
+
+---
+
+### 📄 Know About My Experiences  
+📑 [Resume PDF](https://aswini-sm-portfolio.netlify.app/Aswini_SM_Resume.pdf)
+
+---
+
+### ✍ I Will Soon Be Writing Articles On  
+📝 Medium & Dev.to – about React, Java DSA, and project journeys!
+
+---
+
+### ⚡ Fun Fact  
+I can debug while dancing to music — that’s how ISAI was born 😉  
+Also... I believe in learning like I'm already hired!
+
+---
+
+## 🧠 I Code In
+<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img height="40" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png"/>  
+<img height="40" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/python.png"/>  
+<img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img height="40" src="https://img.icons8.com/color/48/firebase.png"/>  
+
+---
+
+## 🧰 Tools I Use  
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>  <img height="40" src="https://img.icons8.com/fluency/48/null/eclipse.png"/>  <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/>  
+<img height="40" src="https://img.icons8.com/color/48/netlify.png"/>  
+  
+
+---
+
+## 💻 Workspace Spec  
+<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/Intel-Core_i5_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/RAM-16GB-764ABC?style=for-the-badge"/>  
+
+---
+
+## 📈 GitHub Stats
 
 ![Aswini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswini1008&theme=radical&show_icons=true&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswini1008&layout=compact&theme=radical)
 
----
-
-### 🧠 A Bit About Me
-
-- 🌱 Currently mastering **Java, Python, SQL, DSA**, and Full Stack Web Development  
-- 💬 Practicing **spoken English** to sound fluent and confident  
-- ✈️ Passionate about **traveling, cooking**, and exploring **new cultures**  
-- 🚀 Open to **SDE Internships**, **Full-Stack Roles**, and **Tech Collaborations**
+[![Aswini’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aswini1008&bg_color=000000&color=00e676&line=ffffff&point=ff5722&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswini-sm-97292629a)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aswini1008)
-
----
-
-_Thanks for visiting! Let’s connect, collaborate, and grow together 🚀_
+_✨ Thanks for visiting! Let’s connect, collaborate, and grow together 🚀_
