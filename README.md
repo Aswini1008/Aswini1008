@@ -1,6 +1,3 @@
-Super macha! 🔥 Let’s add your **latest achievements** to your GitHub README in a clean and standout section. Here's the **updated version** of your profile README with achievements included, along with all the earlier refinements:
-
----
 
 ## 👋 Hi there! I'm Aswini
 
