@@ -88,25 +88,16 @@ Also… I code like I’m already hired.
 
 ## 🧠 Languages I Code In
 
-<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img height="40" src="https://img.icons8.com/color/48/html-5.png"/>
-<img height="40" src="https://img.icons8.com/color/48/css3.png"/>
-<img height="40" src="https://img.icons8.com/color/48/javascript.png"/>
-<img height="40" src="https://img.icons8.com/color/48/react-native.png"/>
-<img height="40" src="https://img.icons8.com/color/48/tailwindcss.png"/>
-<img height="40" src="https://img.icons8.com/color/48/python.png"/>
-<img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img height="40" src="https://img.icons8.com/color/48/firebase.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img height="40" src="https://img.icons8.com/color/48/html-5.png"/>
+<img height="40" src="https://img.icons8.com/color/48/css3.png"/><img height="40" src="https://img.icons8.com/color/48/javascript.png"/>
+<img height="40" src="https://img.icons8.com/color/48/react-native.png"/><img height="40" src="https://img.icons8.com/color/48/tailwindcss.png"/>
+<img height="40" src="https://img.icons8.com/color/48/python.png"/><img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/><img height="40" src="https://img.icons8.com/color/48/firebase.png"/>
 
 ---
 
 ## 🧰 Tools I Use
 
-<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img height="40" src="https://img.icons8.com/color/48/git.png"/>
-<img height="40" src="https://img.icons8.com/fluency/48/eclipse.png"/>
-<img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/>
-<img height="40" src="https://img.icons8.com/color/48/netlify.png"/>
+<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/><img height="40" src="https://img.icons8.com/color/48/git.png"/><img height="40" src="https://img.icons8.com/fluency/48/eclipse.png"/><img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/><img height="40" src="https://img.icons8.com/color/48/netlify.png"/>
 
 ---
 
