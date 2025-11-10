@@ -27,8 +27,8 @@
   - **BSNL** – *Core Telecom Concepts*  
 - 🌐 Co-maintaining **[Petal Her](https://aswini-sm-portfolio.netlify.app/)** – Freelancing brand where I collaborate as a developer & designer  
 - 💼 Delivered **2 Freelancing Projects** – *PR Power* & *Church Website*  
-- 💡 Completed **2 Real-Time Projects** – *Church Website* & *Smart Solar Tracker*  
-- ⚙️ Hackathon Enthusiast – Participated in **3+ hackathons** including IEEE Extreme & GDG events  
+
+- ⚙️ Hackathon Enthusiast – Participated in **3+ hackathons** including IEEE Extreme , & GDG events  
 
 ---
 
