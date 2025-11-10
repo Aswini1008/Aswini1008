@@ -16,7 +16,7 @@
   - **Test Yatra** – Web Development  
   - **Integral Coach Factory (ICF)** – Electrical Wiring & Circuits  
   - **BSNL** – Core Telecom Concepts  
-- 🌐 Built & maintaining **[Petal Her](https://aswini-sm-portfolio.netlify.app/)** – my freelancing brand & personal portfolio  
+- 🌐 Co-maintaining **[Petal Her](https://aswini-sm-portfolio.netlify.app/)** – a freelancing portfolio brand initiated by my friend, where I collaborate as a developer and designer  
 
 ---
 
@@ -26,6 +26,7 @@
 | **ISAI – Music Web App** | A full-stack music application with Firebase, Cloudinary, and React. | [GitHub](https://github.com/Aswini1008/ISAI) · [Live](https://isai-music.netlify.app) |
 | **PR Power** | Infrastructure service website built with React.js and Tailwind CSS. | [Live Demo](https://pr-power.netlify.app/) |
 | **AI Resume Keyword Extractor** | Python GUI app to analyze resume keyword density (educational use). | — |
+| **Smart Solar Tracker (Sunflower Heliotropism Mechanism)** | An intelligent solar tracking system with auto-cleaning inspired by sunflower movement for maximum energy efficiency. | — |
 
 ---
 
@@ -38,9 +39,9 @@
 ---
 
 ## 🤝 Open to Collaborate On
-- Smart Solar Tracker (auto-cleaning mechanism)  
 - AI/ML Research Projects  
 - Scalable Web Applications  
+- Sustainable Tech & Embedded Systems Projects  
 
 ---
 
@@ -93,4 +94,4 @@
 
 ## ⚡ Fun Fact
 I debug while vibing to music — that’s how **ISAI** was born! 🎶  
-I code like I already have the offer. 💻🔥
+And my **Sunflower-Inspired Solar Tracker** literally follows the light — just like my mindset. 💻🔥
