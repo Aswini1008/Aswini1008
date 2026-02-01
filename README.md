@@ -79,20 +79,7 @@ I enjoy working across the stack—from APIs and databases to user-facing interf
 | **Databases** | MySQL, Firebase, MongoDB |
 | **Tools** | Git, VS Code, Eclipse, Figma, Netlify |
 
----
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Aswini1008&show_icons=true&theme=radical&hide_border=true&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswini1008&layout=compact&theme=radical&hide_border=true"
-    height="170"
-  />
-</p>
 
 ---
 
