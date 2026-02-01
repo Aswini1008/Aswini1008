@@ -26,7 +26,7 @@
 I build **scalable, maintainable, and production-ready applications** with a strong focus on **Java backend engineering**, clean architecture, and real-world problem solving.  
 I enjoy working across the stack—from APIs and databases to user-facing interfaces—with an engineering-first mindset.
 
-<img align="right" width="300" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+
 
 ---
 
@@ -35,11 +35,11 @@ I enjoy working across the stack—from APIs and databases to user-facing interf
 - 💼 Internship Experience:
   - **MetaTarakaa AI Innovations Pvt. Ltd.** — AI & Python Research Developer  
   - **Test Yatra** — Web Development Intern  
-  - **Integral Coach Factory (ICF)** — Electrical Wiring & Circuit Design  
   - **BSNL** — Core Telecom Systems & Networking  
 - 🌐 Co-maintainer of **Petal Her** — a freelancing brand where I contribute as a developer & designer  
 - 💼 Delivered **client-facing freelancing projects** with live deployments  
-- ⚙️ Hackathon participant — IEEE Extreme, GDG events, and multiple college-level hackathons  
+- ⚙️ Hackathon Participant — **shortlisted among the Top 50 teams out of 500+ participants** at the **Odoo × SNS Hackathon**, along with  multiple college-level hackathons participation.
+
 
 ---
 
