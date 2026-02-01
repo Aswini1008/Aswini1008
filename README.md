@@ -85,7 +85,7 @@ I enjoy working across the stack—from APIs and databases to user-facing interf
 
 ## 📫 Let’s Connect
 - 📧 Email: **smaswini006@gmail.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/aswini-sm-97292629a  
+- 🔗 LinkedIn: https://www.linkedin.com/in/aswini-sm 
 - 🌐 Portfolio: https://aswini-sm-portfolio.netlify.app  
 - 💻 GitHub: https://github.com/Aswini1008  
 - 🔥 LeetCode: https://leetcode.com/u/aswini_sm  
