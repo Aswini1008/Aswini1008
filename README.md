@@ -47,7 +47,7 @@ I enjoy working across the stack—from APIs and databases to user-facing interf
 
 | Project | Engineering Highlights | Live |
 |------|------------------------|------|
-| **Church Website – Full-Stack Platform** | React + Firebase application with admin dashboard, media management, and event scheduling. Performance optimized (~70%) using Cloudinary CDN, lazy loading, and Lighthouse tuning. | https://cosmic-squirrel-a9efa8.netlify.app |
+| **Church Website – Full-Stack Platform** | React + Firebase application with admin dashboard, media management, and event scheduling. Performance optimized (~70%) using Cloudinary CDN, lazy loading, and Lighthouse tuning. | https://stjosephskamplar.org/ |
 | **PR Power – Business Website** | Responsive React + Tailwind CSS website built for a real client. Focused on clean UI architecture, reusable components, and production deployment via Netlify. | https://pr-power.netlify.app |
 | **Smart Solar Tracker (IoT Project)** | Sunflower-inspired heliotropic solar tracker with auto-cleaning mechanism to maximize solar efficiency. Hardware–software integrated system. | — |
 
