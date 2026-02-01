@@ -31,7 +31,7 @@ I enjoy working across the stack—from APIs and databases to user-facing interf
 ---
 
 ## 🏆 Achievements & Experience
-- 💻 Solved **200+ DSA problems** *(Arrays, Strings, Recursion, Trees, Graphs)* on LeetCode & GeeksforGeeks  
+- 💻 Solved **200+ DSA problems**  on LeetCode & GeeksforGeeks 
 - 💼 Internship Experience:
   - **MetaTarakaa AI Innovations Pvt. Ltd.** — AI & Python Research Developer  
   - **Test Yatra** — Web Development Intern  
