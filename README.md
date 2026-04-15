@@ -13,91 +13,86 @@
   <a href="mailto:smaswini006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Aswini1008">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### Software Engineer | Java Backend | Full-Stack Web Developer  
+### 💻 Software Engineer | Front-End Developer | Java Enthusiast  
 🎓 Pre-Final Year ECE Student @ Panimalar Engineering College  
 
-I build **scalable, maintainable, and production-ready applications** with a strong focus on **Java backend engineering**, clean architecture, and real-world problem solving.  
-I enjoy working across the stack—from APIs and databases to user-facing interfaces—with an engineering-first mindset.
-
-
+I build **responsive and user-friendly web applications** using React.js and modern web technologies.  
+I have a strong foundation in **Java, SQL, and problem-solving**, and I enjoy developing real-world projects and improving my coding skills.
 
 ---
 
 ## 🏆 Achievements & Experience
-- 💻 Solved **200+ DSA problems**  on LeetCode & GeeksforGeeks 
+- 💻 Solved **200+ DSA problems** on LeetCode & GeeksforGeeks  
 - 💼 Internship Experience:
-  - **MetaTarakaa AI Innovations Pvt. Ltd.** — AI & Python Research Developer  
   - **Test Yatra** — Web Development Intern  
-  - **BSNL** — Core Telecom Systems & Networking  
-- 🌐 Co-maintainer of **Petal Her** — a freelancing brand where I contribute as a developer & designer  
-- 💼 Delivered **client-facing freelancing projects** with live deployments  
-- ⚙️ Hackathon Participant — **shortlisted among the Top 50 teams out of 500+ participants** at the **Odoo × SNS Hackathon**, along with  multiple college-level hackathons participation.
-
+  - **BSNL** — Telecom & Networking  
+- 💼 Worked on **client-based projects** with live deployments  
+- ⚙️ Hackathon Participant — **Top 50 (Odoo × SNS Hackathon)**  
 
 ---
 
 ## 💻 Featured Projects
 
-| Project | Engineering Highlights | Live |
-|------|------------------------|------|
-| **Church Website – Full-Stack Platform** | React + Firebase application with admin dashboard, media management, and event scheduling. Performance optimized (~70%) using Cloudinary CDN, lazy loading, and Lighthouse tuning. | https://stjosephskamplar.org/ |
-| **PR Power – Business Website** | Responsive React + Tailwind CSS website built for a real client. Focused on clean UI architecture, reusable components, and production deployment via Netlify. | https://pr-power.netlify.app |
+### 🌐 Church Management Web Application
+- Built a responsive platform using **React.js**
+- Integrated **REST APIs** for dynamic data handling
+- Implemented event updates and media management
+- Used by **250+ users**
+
+🔗 https://stjosephskamplar.org/
+
+---
+
+### 💼 PR Power – Company Website
+- Developed responsive UI using **React.js & Tailwind CSS**
+- Designed reusable components and smooth navigation
+- Deployed using **Netlify**
+
+🔗 https://pr-power.netlify.app
+
+---
+
+## 🧠 Core Skills
+
+- **Java (Core, OOPS, Basic DSA)**
+- **SQL (Queries, Joins)**
+- **HTML, CSS, JavaScript**
+- **React.js, Tailwind CSS**
+- **Git & GitHub**
+
+---
+
+## 🛠 Tech Stack
+
+| Area | Technologies |
+|-----|-------------|
+| Languages | Java, JavaScript |
+| Frontend | React.js, Tailwind CSS, Bootstrap |
+| Backend (Basic) | Node.js, Firebase |
+| Database | MySQL, MongoDB |
+| Tools | Git, VS Code, Netlify |
 
 ---
 
 ## 🌱 Current Focus
-- Java Backend Engineering (Spring Boot, REST APIs)  
-- Advanced Data Structures & Algorithms  
-- Full-Stack Development (React + Firebase)  
-- Cloud & Deployment Fundamentals (AWS, Netlify, Firebase)  
-
----
-
-## 💬 Areas I Work With
-- Java, React, Python, Firebase  
-- Backend Architecture & REST API Design  
-- Git & Version Control, Deployment Pipelines  
-- System Design Fundamentals & Clean Code  
-
----
-
-## 🧠 Core Tech Stack
-
-| Area | Technologies |
-|-----|-------------|
-| **Languages** | Java, Python, JavaScript |
-| **Frontend** | React.js, Tailwind CSS, Bootstrap |
-| **Backend** | Java (Core), Firebase, Node.js (basic) |
-| **Databases** | MySQL, Firebase, MongoDB |
-| **Tools** | Git, VS Code, Eclipse, Figma, Netlify |
-
-
+- Improving **Java & DSA problem-solving**
+- Strengthening **React & Frontend Development**
+- Learning **backend fundamentals (APIs & databases)**
 
 ---
 
 ## 📫 Let’s Connect
 - 📧 Email: **smaswini006@gmail.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/aswini-sm 
+- 🔗 LinkedIn: https://www.linkedin.com/in/aswini-sm  
 - 🌐 Portfolio: https://aswini-sm-portfolio.netlify.app  
 - 💻 GitHub: https://github.com/Aswini1008  
 - 🔥 LeetCode: https://leetcode.com/u/aswini_sm  
 
 ---
 
-## ✍️ Upcoming Content
-I’ll be sharing technical content on **Medium & Dev.to**, including:
-- Production-style Full-Stack Builds  
-- Java + DSA Interview Preparation  
-- Placement and engineering growth journey  
-
----
-
 ## ⚡ Fun Fact
-I enjoy hackathons so much that I’ve lost track of sleep more times than I can count—and my **sunflower-inspired solar tracker** literally follows the light, just like my approach to continuous growth ☀️💻
+I enjoy hackathons and building real-world projects — always curious to learn and improve 🚀
