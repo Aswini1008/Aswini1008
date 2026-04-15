@@ -48,13 +48,13 @@ I have a strong foundation in **Java, SQL, and problem-solving**, and I enjoy de
 ---
 
 ### 💼 PR Power – Company Website
-- Developed responsive UI using **React.js & Tailwind CSS**
-- Designed reusable components and smooth navigation
-- Deployed using **Netlify**
+
+- Engineered a fully responsive business website using **React.js and Tailwind CSS**, ensuring seamless performance across mobile, tablet, and desktop devices  
+- Designed and implemented **modular, reusable UI components** to improve scalability and maintainability of the codebase  
+- Enhanced user experience through **optimized layout structure, smooth navigation, and efficient component rendering**  
+- Deployed the application using **Netlify**, ensuring reliable hosting and continuous delivery  
 
 🔗 https://pr-power.netlify.app
-
----
 
 ## 🧠 Core Skills
 
